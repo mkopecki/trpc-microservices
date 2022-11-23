@@ -1,5 +1,5 @@
 import express from "express";
-import { serviceController } from "../controllers/serviceController";
+import { serviceController } from "../controllers/serviceExpressController";
 
 // initialize express router
 const expressRouter = express.Router();
