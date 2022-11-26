@@ -27,6 +27,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@trpc/client@^10.2.0":
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.2.0.tgz#310752768c7d2a1129a91689b233a62bcf87762e"
+  integrity sha512-Mehf6euqMzAak+Umay1LKol9nC716yBjHNqrF6blWY/n2hwSICrLXQwveNaHK7qjKXJ86b4aDW39KR02WCQP4A==
+
 "@trpc/server@^10.1.0":
   version "10.1.0"
   resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.1.0.tgz#e37c1f6b768b1de2ee5db51c4e97c462a7a642a0"
