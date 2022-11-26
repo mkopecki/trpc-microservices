@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_PATH=./build node build/service-1/src/index.js",
+    "start": "NODE_PATH=./build node build/index.js",
     "build": "tsc -p ."
   },
   "author": "",

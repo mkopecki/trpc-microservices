@@ -13,7 +13,7 @@ services:
       - "4000"
     ports:
       - "4000:4000"
-    command: npm start
+    command: yarn start
   service-2:
     build:
       context: ./service-2
@@ -26,4 +26,4 @@ services:
       - "4001"
     ports:
       - "4001:4001"
-    command: npm start
+    command: yarn start
