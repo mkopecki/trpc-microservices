@@ -1,13 +1,11 @@
 {
   "name": "scripts",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "ts-node index.ts"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Maxim Kopecki",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.11.9",
     "@types/node-fetch": "^2.6.2",
