@@ -3,7 +3,7 @@
     "target": "es2016",
     "lib": ["es6", "DOM"],
     "module": "commonjs",
-    "rootDirs": ["src", "../service-2/src"],
+    "rootDirs": ["src"],
     "resolveJsonModule": true,
     "outDir": "build",
     "esModuleInterop": true,
